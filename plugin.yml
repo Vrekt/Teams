@@ -1,0 +1,16 @@
+main: me.vrekt.teams.Teams
+name: Teams
+version: 1.2(data build 43)
+
+commands:
+  team:
+   description: Base team command.
+   usage: /team
+  ta:
+   description: Admin commands for Teams.
+   usage: /ta
+
+permissions:
+  team.admin:
+   description: Allows administrative actions within Teams.
+

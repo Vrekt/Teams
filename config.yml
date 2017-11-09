@@ -1,0 +1,25 @@
+# Teams configuration.
+# enable-allies: only 1 ally allowed.
+# chat-logging will allow staff to see team chat and talk in it. (aswell as ally)
+
+max-team-size: 15
+enable-allies: true
+max-name-characters: 24
+home-cooldown: 5
+
+team-chat-logging: true
+team-ally-logging: true
+
+blacklisted-names:
+ - 'Zyklon'
+ - 'niggers'
+ - 'fuck'
+ - 'ass'
+ - 'nigger'
+ - 'nigr'
+ - 'faggot'
+ - 'fag'
+ - 'bitch'
+ - 'whore'
+ - 'slut'
+
